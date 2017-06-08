@@ -1,0 +1,19 @@
+{
+    "persons": [{
+        "person": {
+            "firstName": "Nicolas",
+            "lastName": "Lopez",
+            "addresses": [{
+				"address":{"buildingName":"Hasting", "town":"Vancouver", "postCode":"11111"}
+			}]
+        }
+    }, {
+        "person": {
+            "firstName": "Martin",
+            "lastName": "Rivero",
+            "addresses": [{
+				"address":{"buildingName":"Pendrell", "town":"Squamish", "postCode":"22222"}
+			}]
+        }
+    }]
+}
